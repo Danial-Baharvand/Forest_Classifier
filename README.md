@@ -12,6 +12,7 @@ one of:
 * h: ‘Hinoki’ forest;
 * d: ‘Mixed deciduous’ forest;
 * o: ‘Other’ non-forest land.
+
 Using this data two multi-class classifiers classify land type from the
 spectral data. These classifiers are be:
 1. A K-Nearest Neighbours Classifier;
